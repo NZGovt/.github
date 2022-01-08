@@ -2,7 +2,7 @@
 
 Here we host repos of geospacial data from various New Zealand Govt departments – mainly LINZ. 
 
-Public repositories contain licensed under CC BY 3.0/4.0 licences. Private repos may contain full copyright all rights reserved data – read the licence statement before sharing. Under no circumstances should RESTRICTED, CONFIDENTIAL, SECRET and/or TOP SECRET security classification data be stored on this organisation profile, public or private.
+Public repositories contain data mostly licenced under CC BY 3.0/4.0 licences. Private repos may contain full copyrightable all rights reserved data – read the licence file before using. Under no circumstances should RESTRICTED, CONFIDENTIAL, SECRET and/or TOP SECRET security classified data be stored on this organisation account, public or private.
 
 Cloning whole repositories allow you to quickly access all the data without going through data services or ESRI endpoints. It is designed for users who use most if not all the dataset, not somewone who's only after one subset.
 
