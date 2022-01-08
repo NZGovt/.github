@@ -13,3 +13,7 @@ Various sources cloned from:
 * [data.gns.cri.nz](https://data.gns.cri.nz/)
 * [data.niwa.co.nz](https://data.niwa.co.nz/)
 * [catalogue.data.govt.nz](https://catalogue.data.govt.nz/)
+
+----
+
+A [WCAD – Te Whare Takiura o Wikiriwhi](https://www.researchgate.net/institution/Whitecliffe_College_of_Arts_and_Design) research project.
